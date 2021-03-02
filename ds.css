@@ -1,0 +1,53 @@
+body {
+	background-color: #96ed13;
+}
+
+div {
+	width: 1050px;
+	height: 60px;
+	margin-left: 8px;
+	margin-right: 12px;
+}
+
+.h {
+	background-color: #2f24f2;
+}
+
+.p {
+	font-size: 30px;
+	text-align: center;
+	color: #000;
+	padding-top: 10px;
+}
+
+.b {
+	background-color: white;
+	height: 2800px;
+}
+
+table {
+	border: 15px white;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 20px;
+	padding-right: 20px; 
+}
+
+tr td {
+	border: 15px white;
+}
+
+.copy {
+	background-color: #000;
+	height: 100px;
+}
+
+small {
+	color: #c8d162;
+	text-align: center;
+}
+
+#tel {
+	color: #c8d162;
+	text-align: center;	
+}
